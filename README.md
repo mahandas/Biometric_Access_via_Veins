@@ -26,13 +26,10 @@
 
 ## Algorithms
 
-# • SIFT
-
-# • SURF
-
-# • FAST
-
-# • ORB
+ • SIFT
+ • SURF
+ • FAST
+ • ORB
 
 
 ## Software Flow for Biometric Recognition
